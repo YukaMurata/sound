@@ -1,0 +1,29 @@
+{
+  "name": "modal",
+  "version": "1.0.0",
+  "description": "モーダルの練習",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-pleeease": "^2.0.2",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  },
+  "devDependencies": {
+    "gulp-pleeease": "^2.0.2",
+    "gulp-sass": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YukaMurata/modal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YukaMurata/modal/issues"
+  },
+  "homepage": "https://github.com/YukaMurata/modal#readme"
+}
